@@ -2,5 +2,5 @@ import streamlit as st
 
 st.title("🎈 pacarjisung")
 st.write(
-  "ayoo bermain bersama pacar jisung,"
+  "ayoo main bersama pacar jisung,"
 )
