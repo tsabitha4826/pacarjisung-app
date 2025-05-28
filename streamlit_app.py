@@ -52,4 +52,4 @@ with col2:
         kembalian_uang = bayar - total_harga
         st.write(f"Uang Kembalian: Rp. {kembalian_uang:,.0f}")
     else:
-        st.write("Uang yang anda bayarkan kurang")
+        st.write("Uang yang anda bayarkan kurang ")
