@@ -18,6 +18,7 @@ else:
 
 st.title("Aplikasi Sederhana")
 
+
 # Menggunakan layout kolom
 col1, col2 = st.columns(2)
 
